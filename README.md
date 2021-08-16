@@ -1,2 +1,3 @@
-# ml_examples
-A number of Machine Learning examples on Google Cloud
+# ml_example
+
+A number of Machine Learning examples.
